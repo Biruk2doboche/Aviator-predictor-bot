@@ -10,14 +10,6 @@ Aviator is a new kind of social multiplayer game consisting of an increasing cur
 # How to use Bot.
 First join The official's bot telegram chanel. Join by [Clicking here](https://t.me/AviatorProHackApp)
 
-# Starting the Bot.
-Start the bot by sending the start command to the bot
-![image](https://github.com/user-attachments/assets/58a9b522-0d3c-4812-82cc-c41cf7ad5e83)
-
-
-[GET BOT](https://t.me/AviatorProHackApp)
-
-Send your 1XBET account to syncronize with the bot.
 
 # Start getting the signals and win big with the bot
 
